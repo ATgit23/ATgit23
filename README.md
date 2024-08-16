@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ATgit23
+- 🌱 I’m currently learning JAVA with database connectivity
